@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+6-AXIS IMU,PinSocket_1x04_P2.54mm_Vertical,1,Gyro Socket,
+GPS,PinSocket_1x04_P2.54mm_Vertical,1,GPS Socket,
+LED,PinSocket_1x03_P2.54mm_Vertical,1,8 Bit LED Ring,
+SAMD21,SAMD21,1,SEEED XIAO SAMD21,
+SD,PinHeader_1x06_P2.54mm_Vertical,1,SD Card Socket,

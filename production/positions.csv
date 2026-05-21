@@ -1,0 +1,6 @@
+﻿Designator,Mid X,Mid Y,Rotation,Layer
+6-AXIS IMU,128.0,-52.0,0.0,top
+GPS,104.0,-45.77,0.0,top
+LED,128.0,-41.0,0.0,top
+SAMD21,115.9,-47.195,0.0,bottom
+SD,116.23,-60.5,90.0,top
