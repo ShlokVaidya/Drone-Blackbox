@@ -35,8 +35,6 @@ With rich installed it shows a live dashboard with three panels — GPS, IMU, Ma
 
 ---
 
-![image](https://stasis.hackclub-assets.com/images/1777011897942-jubb7g.png)
-
 # 4/24/2026 4 AM - CADDING
 
 _Time spent: 3.616666666666667h_
